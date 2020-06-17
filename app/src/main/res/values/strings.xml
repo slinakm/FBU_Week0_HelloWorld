@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="hello_from_selina">Hello from Selina!</string>
+    <string name="press_to_change_label_color">Change text color!</string>
+    <string name="change_text">Change text!</string>
+    <string name="change_background_color">Change background color!</string>
+    <string name="android_is_awesome">Android is Awesome!</string>
+    <string name="edit_text_here">Edit text here!</string>
+</resources>
